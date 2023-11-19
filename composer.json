@@ -1,0 +1,16 @@
+{
+    "name": "ekovalev/livedday",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Ekovalev\\Livedday\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eugene Kovalev",
+            "email": "knuklus@ya.ru"
+        }
+    ],
+    "require": {}
+}
