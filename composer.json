@@ -3,7 +3,7 @@
     "type": "library",
     "autoload": {
         "psr-4": {
-            "Ekovalev\\Livedday\\": "src/"
+            "Ekovalev\\Otus\\": "src/"
         }
     },
     "authors": [
@@ -12,5 +12,7 @@
             "email": "knuklus@ya.ru"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.4"
+    }
 }
